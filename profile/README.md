@@ -22,6 +22,9 @@ Superior Systems is the open-source side of [Superior Scale](https://superior-sc
 - **Developer tools** that cut the busywork out of shipping
 - **Security & hardening** for apps, servers and AI setups
 - **Systems & Linux** builds, configs and scripts
+- **Linux** custom distros, Linux From Scratch builds and system tooling
+- **Hardware** hardware projects, firmware and device tooling
+- **Operating systems** custom desktop and mobile OS work
 
 ## Our principles
 
@@ -41,6 +44,8 @@ Superior Systems is the open-source side of [Superior Scale](https://superior-sc
 | Agent framework | Building blocks for AI agents and automation | Coming soon |
 | Developer tools | CLIs and utilities for everyday dev work | Coming soon |
 | Security toolkit | Hardening and audit tooling | Coming soon |
+| Linux & OS | Custom distros, Linux From Scratch and OS tooling | Coming soon |
+| Hardware | Hardware projects, firmware and device tooling | Coming soon |
 
 ## Get started
 
