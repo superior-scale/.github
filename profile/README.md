@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" alt="Superior Systems" width="420">
+  <img src="./logo-navy.png" alt="Superior Systems" width="420">
 </p>
 
 <p align="center"><b>Open-source AI, automation &amp; developer tools. Built to run on your own hardware.</b></p>
